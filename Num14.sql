@@ -1,0 +1,3 @@
+-- Um índice contém chaves criadas de uma ou mais colunas da tabela ou view. Essas chaves são armazenadas em uma estrutura (B-Tree)
+-- possibilitando a localização da linha ou das linhas associadas aos valores de chave de forma rápida e eficaz.
+-- Implementação: CREATE INDEX [nome do index] on [nome da tabela]([colunas]).
